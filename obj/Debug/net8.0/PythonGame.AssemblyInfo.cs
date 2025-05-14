@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PythonGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b7f93ac06ce5df2b9d62e4474e1af5d5d233b66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c129663bcd8841632830c7c00918e51795ce8da")]
 [assembly: System.Reflection.AssemblyProductAttribute("PythonGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PythonGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
